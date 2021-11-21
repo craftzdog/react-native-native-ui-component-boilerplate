@@ -1,4 +1,4 @@
-# react-native-native-ui-component-boiler-plate
+# react-native-native-ui-component-boilerplate
 
 A boilerplace for building native module for React Native
 
