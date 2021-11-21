@@ -1,6 +1,6 @@
-# react-native-my-textedit
+# react-native-native-ui-component-boiler-plate
 
-Boilerplace for building native module for React Native
+A boilerplace for building native module for React Native
 
 ## Installation
 
@@ -15,7 +15,7 @@ import { MyTexteditView } from 'react-native-my-textedit'
 
 // ...
 
-;<MyTexteditView color="tomato" />
+<MyTexteditView color="tomato" />
 ```
 
 ## Contributing
