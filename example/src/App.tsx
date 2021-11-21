@@ -6,7 +6,7 @@ import { MyTexteditView } from 'react-native-my-textedit';
 export default function App() {
   return (
     <View style={styles.container}>
-      <MyTexteditViewManager color="#32a852" style={styles.box} />
+      <MyTexteditView color="#32a852" style={styles.box} />
     </View>
   );
 }
@@ -18,8 +18,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   box: {
-    width: 60,
-    height: 60,
+    flex: 1,
+    width: '100%',
     marginVertical: 20,
   },
 });
