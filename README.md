@@ -1,6 +1,6 @@
 # react-native-my-textedit
 
-hoge
+Boilerplace for building native module for React Native
 
 ## Installation
 
@@ -11,11 +11,11 @@ npm install react-native-my-textedit
 ## Usage
 
 ```js
-import { MyTexteditView } from "react-native-my-textedit";
+import { MyTexteditView } from 'react-native-my-textedit'
 
 // ...
 
-<MyTexteditView color="tomato" />
+;<MyTexteditView color="tomato" />
 ```
 
 ## Contributing
